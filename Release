@@ -6,23 +6,23 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: TurboTV Cydia repository
-Date: Wed, 25 Nov 2026 13:41:52 UTC
+Date: Wed, 25 Nov 2026 23:47:30 UTC
 
 MD5Sum:
- 1b64db093b6a084d4054efcc3f874354 913 Packages
- af6442ee0a523855b703db5ff7bba7ba 594 Packages.gz
- e8e67293b16d028d97a2809b0d884a1b 659 Packages.bz2
- 08d892f3f57605474e628f7e09a27b96 672 Packages.xz
+ e4c260f987ecd834176772ec05aef47b 948 Packages
+ 336577571575e1ae7ed2a7b6956826fb 602 Packages.gz
+ 00a0940962d02339ec1d495588b71b87 665 Packages.bz2
+ 690fd027dce31b2fec3913ac24dd7702 684 Packages.xz
  6bdde0a6f5edfee1333acfda92db6dd3 27688 vietqr.png
 SHA1:
- 85f12705bd76ee6c5cc8cc4d5b7a8e474881d656 913 Packages
- 6187c51c27ebb7e65d4b7a6910c4b01c45d6070e 594 Packages.gz
- 110848801c6252f22c77af6f9df057ed498cf18a 659 Packages.bz2
- 50aa9bc6f3b96f0fc4c958a1301934fe99daf204 672 Packages.xz
+ 6d961a58464a889d8f0c9bbbacf51a2f4f4da676 948 Packages
+ b252f9f4166b4197da52ecea653022715cf3d4c3 602 Packages.gz
+ 93c6a93f7f8b45b405d4d79b4ad3aec2c4a3f7d1 665 Packages.bz2
+ 13853864df1a0dfa590a42111ba6817c3603e92c 684 Packages.xz
  e3b533e7ede92eca27570ee07bffbd3b49eaaad9 27688 vietqr.png
 SHA256:
- 7ec83953e544204f91cd33ef82b8bce213f8b0eb267f47d85516ddf15c2c2243 913 Packages
- 5f82a7e022e62169ebd4bab9ee128ecdddf8ac65c2fdb919ade00e4f13147b3a 594 Packages.gz
- 43e520b8e08837ff03654f02f39fdc01b6bc562dffcc229807ee5abb7ba214f4 659 Packages.bz2
- 48a49f752648596ba305df3dad0abafbcc44ae12ef684e7de5a8ffba5c620ba9 672 Packages.xz
+ 869948931c1e3c4dfa5f90fd74cf687fea5928eddd00e515cbbb3b51697622cb 948 Packages
+ 7ffa3def9f79e15e19552ed51e97d3cfbbd9bc00dfa40898144d0228f8f938a4 602 Packages.gz
+ 8d32c7ae269b51e895a8150fb932ebff57adc96eefdb0e8be6594ae594d899c8 665 Packages.bz2
+ 709300dededcc21f19eae98b155d0159fefb677cc8d3c08d35311f240ec334b2 684 Packages.xz
  22fc6b0f49a3e45751d5d59544d1413577b5ff437f59127c2109e6b7cf03de67 27688 vietqr.png
