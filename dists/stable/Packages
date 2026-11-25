@@ -1,0 +1,17 @@
+Package: com.bun.tubepro
+Architecture: iphoneos-arm
+Version: 1.17.11
+Maintainer: Bun
+Installed-Size: 4100
+Filename: debs/com.bun.tubepro_1.17.11_iphoneos-arm.deb
+Size: 2986864
+MD5sum: 89756a8c54b429bd59c3dbef5296af02
+SHA1: ffbd86498cad0abb9f691fb25ffe4a25bc9741e6
+SHA256: 8a9b3e78e79ae4a661a88c43901832b13c4fd59fef706573ef3b084b42f03da0
+SHA512: 24e9b679ec64d5b8f0ed2abcf83372d987fc52152fa6954bc41c566209cf0aa4aa38c984001d69124c1eeb381710746d7538c9530d599b94012684d056978003
+Description: YouTube cho iPhone/iPad cu (iOS 5 tro len) — xem 1080p, mini player, PiP, phat nen, hen gio tat, 10 ngon ngu. 1.17.11: giao dien moi chuan YouTube goc — theme YouTube Dark mac dinh, them YouTube Light + 3 theme toi, logo TurboTV tren thanh header.
+Name: TurboTV
+Depiction: https://twosix11d.github.io/turboasi4n/depiction.html
+SileoDepiction: https://twosix11d.github.io/turboasi4n/depiction.json
+Icon: https://twosix11d.github.io/turboasi4n/CydiaIcon.png
+
