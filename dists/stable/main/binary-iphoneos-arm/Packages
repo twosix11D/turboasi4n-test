@@ -1,15 +1,15 @@
 Package: com.bun.tubepro
 Architecture: iphoneos-arm
-Version: 1.17.14
+Version: 1.17.15
 Maintainer: Bun
-Installed-Size: 5060
-Filename: debs/com.bun.tubepro_1.17.14_iphoneos-arm.deb
-Size: 3509228
-MD5sum: fbd3bb94f72cfbb7bbefd23f23bd4297
-SHA1: de48210c4bec40a03c66975e7fe161638ecdae52
-SHA256: 1d5eb07ff24f0d454c040e34ca5904c31fd9ffec2b7a8f0273413668a0ab9932
-SHA512: d08084d51f174bf104c333736967db37ba3e63f89b9cf2904b7f8a9d20d16a2112f4ce2c1d44c701cb4f5d5445447e5b8cbc8d158785ceb48167bf57689e94f4
-Description: YouTube cho iPhone/iPad cu (iOS 5 tro len) — xem 1080p, mini player, PiP, phat nen, hen gio tat, 10 ngon ngu. 1.17.14: giao dien giong YouTube hien dai — Trang chu, Kênh đăng ký, Thong bao, man Phat video moi + 2 theme kinh Liquid Glass; Shorts mo tu chip Trang chu.
+Installed-Size: 5124
+Filename: debs/com.bun.tubepro_1.17.15_iphoneos-arm.deb
+Size: 3560600
+MD5sum: c6519c67a16cd5c46df81932b7aada4d
+SHA1: 6a3fdfdfc8fdbfee71b56214e98daeef7b701557
+SHA256: a866d8229d1dd543ec2bae7f3de4319f5753015ba93453498df32b495886a5a2
+SHA512: bcecf52cf31a8e7b7bec27ef9cc28987fdc903a856de5ea46a2f3197a840847af72e947ca27a0b490095a23544a3cd5fce589d65fd4dea964103920d8ec79780
+Description: YouTube cho iPhone/iPad cu (iOS 5 tro len) — xem 1080p, mini player, PiP, phat nen, hen gio tat, 10 ngon ngu. 1.17.15: Liquid Glass full — giot nuoc truot trong dock, chip gradient/bong, slider do mo kinh 8-48px, hao quang nen doi mau theo video, mini player + tim kiem + toast kinh, nut tron kinh, kinh moi man con lai.
 Name: TurboTV
 Depiction: https://twosix11d.github.io/turboasi4n/depiction.html
 SileoDepiction: https://twosix11d.github.io/turboasi4n/depiction.json
