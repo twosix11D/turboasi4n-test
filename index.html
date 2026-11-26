@@ -16,7 +16,7 @@ h1{color:#00BFFF} h2{color:#00BFFF} a{color:#0077cc} code{background:#f0f0f0;pad
 <h1>TurboTV — Repo TEST</h1>
 <div class="warn"><b>REPO TEST — chỉ Long dùng để thử bản mới.</b><br>KHÔNG phải repo chính. Đừng chia sẻ link này.</div>
 <p>Repo chính thức của <b>TurboTV</b> — app xem YouTube 1080p cho iPhone/iPad cũ (từ iOS 5 trở lên): iPad mini 1, iPad mini 2, iPhone và iPod touch. Dùng được với <b>Cydia, Sileo và Zebra</b> (cùng 1 URL source).</p>
-<p>Phiên bản hiện có: <b>TurboTV 1.17.18</b> (com.bun.tubepro) — Sửa lỗi iPad mở app chỉ thấy màn trắng (iPad mini 1 iOS 6 và iOS 9); setting lưu chắc chắn, thoát app mở lại không phải setup lại; xem được file log trong app (Cài đặt → Nhật ký → Xem log); nút AI tóm tắt video thật bằng key API dán trong Cài đặt → Nhà phát triển; đồng bộ kênh đã đăng ký / video đã thích / lịch sử xem từ tài khoản Google; menu 3 gạch hết sọc dọc; tự động gửi log về GitHub (tùy chọn, dán token trong Nhà phát triển).</p>
+<p>Phiên bản hiện có: <b>TurboTV 1.17.19</b> (com.bun.tubepro) — Sửa lỗi đăng nhập Google "Không lấy được mã kích hoạt" (tự thử lại bằng quyền cũ khi Google từ chối quyền mới, tự thử lại khi mạng chập chờn); sửa dock theme kính sáng hết khung trắng vuông quanh dock, giọt nước hết che mất icon tab "Bạn"; AI thêm nhà cung cấp Muse (chọn là tự điền sẵn địa chỉ + model, chỉ cần dán key) và đổi model mặc định Gemini thành gemini-3.8-flash; gửi log GitHub lỗi thì ghi rõ lý do trong file log.</p>
 
 <div class="warn"><b>Nhập đúng URL này</b> (có dấu <code>/</code> cuối, KHÔNG phải link github.com):<br><code>https://twosix11d.github.io/turboasi4n-test/</code></div>
 
@@ -27,7 +27,7 @@ h1{color:#00BFFF} h2{color:#00BFFF} a{color:#0077cc} code{background:#f0f0f0;pad
 <li>Mở <b>Cydia</b> → tab <b>Sources</b> → <b>Edit</b> → <b>Add</b>.</li>
 <li>Dán URL này rồi bấm <b>Add Source</b>:
 <br><code>https://twosix11d.github.io/turboasi4n-test/</code></li>
-<li>Chờ Cydia tải xong, vào repo <b>TurboTV</b> → cài <b>TurboTV 1.17.18</b>.</li>
+<li>Chờ Cydia tải xong, vào repo <b>TurboTV</b> → cài <b>TurboTV 1.17.19</b>.</li>
 </ol>
 
 <h2>Thêm repo vào Sileo</h2>
@@ -37,7 +37,7 @@ h1{color:#00BFFF} h2{color:#00BFFF} a{color:#0077cc} code{background:#f0f0f0;pad
 <li>Mở <b>Sileo</b> → tab <b>Sources</b> → bấm dấu <b>+</b> (góc trên).</li>
 <li>Dán URL này rồi bấm <b>Add Source</b>:
 <br><code>https://twosix11d.github.io/turboasi4n-test/</code></li>
-<li>Chờ Sileo <b>Refresh</b> xong, tìm <b>TurboTV</b> → cài bản <b>1.17.18</b>.</li>
+<li>Chờ Sileo <b>Refresh</b> xong, tìm <b>TurboTV</b> → cài bản <b>1.17.19</b>.</li>
 </ol>
 
 <h2>Thêm repo vào Zebra</h2>
@@ -47,14 +47,14 @@ h1{color:#00BFFF} h2{color:#00BFFF} a{color:#0077cc} code{background:#f0f0f0;pad
 <li>Mở <b>Zebra</b> → tab <b>Sources</b> → <b>Add</b>.</li>
 <li>Dán URL này rồi bấm <b>Add</b>:
 <br><code>https://twosix11d.github.io/turboasi4n-test/</code></li>
-<li>Chờ Zebra tải xong, tìm <b>TurboTV</b> → cài bản <b>1.17.18</b>.</li>
+<li>Chờ Zebra tải xong, tìm <b>TurboTV</b> → cài bản <b>1.17.19</b>.</li>
 </ol>
 
 <h2>Trang mô tả gói</h2>
 <p><a href="depiction.html">depiction.html</a> (Cydia/Zebra) · <a href="depiction.json">depiction.json</a> (Sileo native)</p>
 
 <h2>Tải trực tiếp file .deb</h2>
-<p><a href="debs/com.bun.tubepro_1.17.18_iphoneos-arm.deb">com.bun.tubepro_1.17.18_iphoneos-arm.deb</a> (3686636 byte, MD5 <code>16f857f60f22c048692ee2534ea00bca</code>)</p>
+<p><a href="debs/com.bun.tubepro_1.17.19_iphoneos-arm.deb">com.bun.tubepro_1.17.19_iphoneos-arm.deb</a> (3691190 byte, MD5 <code>4b3a552a7b56095003ee8492ac0a52d8</code>)</p>
 <p>Chép file .deb sang iPad rồi mở bằng Filza → Cài đặt → Respring.</p>
 <p><small>Nếu cài bằng lệnh <code>dpkg -i</code> mà icon chưa hiện thì respring 1 lần.</small></p>
 
