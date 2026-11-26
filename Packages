@@ -1,15 +1,15 @@
 Package: com.bun.tubepro
 Architecture: iphoneos-arm
-Version: 1.17.16
+Version: 1.17.17
 Maintainer: Bun
-Installed-Size: 5144
-Filename: debs/com.bun.tubepro_1.17.16_iphoneos-arm.deb
-Size: 3567882
-MD5sum: 508e6343a854014b4c905feb92112407
-SHA1: 6321f06eb9bcd98077aa02fc9fb1e9b5a2ae1ef4
-SHA256: 6d6cc91b3398f065bb5b56b315fb155ca6f331423228aaf83b6eb61bdfc471c1
-SHA512: d92e1a2f98adbf263c35418cca0c632be54d3f5369d336bac0fa6a5d3dc92321d85f117ef5f15c588b96cdeda8a89fc9772e7ead89a85dafcbce50cf5f0cc708
-Description: YouTube cho iPhone/iPad cu (iOS 5 tro len) — xem 1080p, mini player, PiP, phat nen, hen gio tat, 10 ngon ngu. 1.17.16: Sua nut "Tiep tuc" o man chon vung khong bam duoc tren iPhone — them nut Tiep tuc phu o cuoi bang, tu chuyen sang Trang chu neu nut tren khong phan hoi.
+Installed-Size: 5160
+Filename: debs/com.bun.tubepro_1.17.17_iphoneos-arm.deb
+Size: 3581398
+MD5sum: 88d7590812ed069ddc187834f27f5b44
+SHA1: 8963fa807e5cf5a1f3045de7648b54c080304477
+SHA256: 53a3da8bea85480709cfa7c8a147039a9bdb2309384776813ed9f8beb518b3d1
+SHA512: d78e58c417be39816d6a3d07c3e4daa21be3ee16ac6800b0e6c33cf01f681da484b0c47e344a9820ac6180f5954e93445d133d2062018e1105c3b72ddee9f035
+Description: YouTube cho iPhone/iPad cu (iOS 5 tro len) — xem 1080p, mini player, PiP, phat nen, hen gio tat, 10 ngon ngu. 1.17.17: Sua icon mat tren theme Liquid Glass, nut tat tieng tu an, khong luu setting, ten theme trung, am thanh theo ngon ngu vung, kinh mo hon.
 Name: TurboTV
 Depiction: https://twosix11d.github.io/turboasi4n/depiction.html
 SileoDepiction: https://twosix11d.github.io/turboasi4n/depiction.json
