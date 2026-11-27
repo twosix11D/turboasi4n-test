@@ -1,17 +1,17 @@
 Package: com.bun.phonemetest
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.0.1
 Section: Test
 Maintainer: Bun
 Depends: firmware (>= 6.0)
-Filename: debs/com.bun.phonemetest_1.0_iphoneos-arm.deb
-Size: 3450378
-MD5sum: e94d08611eeba2386504673a09283c4c
-SHA1: a384862265f4be3fb1e877c5afd5e5fbf5b4c4c8
-SHA256: 78aa46c4dca3008494dfaa21906ac1405667d6068cfd09ca9920995af3f234aa
-SHA512: 948237edf983c87f63ef6fcd86e4f1f12bd052308c07fcd22b9c1f9fce52021f5958ed00298f12610386230bea10b0fd67a4013f7eb79ed6f1c4798a66654971
+Filename: debs/com.bun.phonemetest_1.0.1_iphoneos-arm.deb
+Size: 3490528
+MD5sum: 65a38e86e5e053ae0e602b88338e4b0c
+SHA1: b852221a73b6f1398ae8745a6c6810d8acb0dbec
+SHA256: e77d0f153007b86603f55a52d02c7b548704c5f4bb900fd9c9ceec5d9ff70921
+SHA512: ea5b6b5741cfb86fcb207e5a51a48e1c8284030f34a73607944a20a4af44c73805cbeaf812716a8c9b83ccf613a08cc9bc11d8c388fac3de20330284ae3cb0b8
 Description: Ban test toi thieu gia lap Java phoneME cho iOS 6 (chay Avatar 2.5.8 tu file .jar nhap ngoai).
-Name: PhoneME Test
+Name: Turbo J2ME
 
 Package: com.bun.tubepro
 Architecture: iphoneos-arm
