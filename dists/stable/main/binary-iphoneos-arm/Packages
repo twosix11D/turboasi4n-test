@@ -208,6 +208,21 @@ SHA512: becc1efe4bb2d617632428c5d4625da289a02cd3e26190b92cf4edcd07c9b42be9fe0751
 Description: Ban test gia lap Java phoneME cho iOS 6 (chay game .jar nhap ngoai; 1.2.3: chi them chan doan — counter cho= (cho tang Java cua thread game) + log caller notifyDestroyed/System.exit + tach sock theo thread (sock= thread game, sockN= thread khac); giu sua quet .jar iOS 12+ cua 1.2.2 + sua ket load map + buffered socket 8 KiB + counter H2 + cong tac JIT cua 1.2.1 + do pha evt/vm/copy/hien + loi decoded=1 + breakdown RAM).
 Name: Turbo J2ME
 
+Package: com.bun.phonemetest
+Architecture: iphoneos-arm
+Version: 1.2.4
+Section: Test
+Maintainer: Bun
+Depends: firmware (>= 6.0)
+Filename: debs/com.bun.phonemetest_1.2.4_iphoneos-arm.deb
+Size: 7388472
+MD5sum: 4bc9f3310554f1e1f55f1975bd245099
+SHA1: fdbf1b119ad9763511b55c1506967a5a449ef099
+SHA256: 639f60044116cee7634d07c1e87e47f56fe92bec805098a5e6275ef698523b0e
+SHA512: 0aa2761e11fb77dd4f80206a94332948f70a4c4b54b1a9fb42c4ba69501ed7fe39f1aae4264ef681316736bf18a2ac49c40a8facf6445ee59b3787c1ac50b31f
+Description: Ban test gia lap Java phoneME cho iOS 6 (chay game .jar nhap ngoai; 1.2.4: tweak giam do tre khung hinh — pacing ap lai giua phien (doi Cai dat co hieu luc ngay) + BGRA truc tiep (bo swap R/B, NEON du phong) + wake-pipe + select 5ms thay usleep 10ms + dirty-region upload tung vung + CADisplayLink watchdog; tran trung thuc ~5-8ms/khung tren A5, khong lam game muot hon neu nut that la cho server/Java chay; giu chan doan 1.2.3 (cho=/sockN=/caller notifyDestroyed) + sua quet .jar iOS 12+ cua 1.2.2 + sua ket load map + buffered socket 8 KiB + counter H2 + cong tac JIT cua 1.2.1 + do pha evt/vm/copy/hien + loi decoded=1 + breakdown RAM).
+Name: Turbo J2ME
+
 Package: com.bun.tubepro
 Architecture: iphoneos-arm
 Version: 1.17.21
