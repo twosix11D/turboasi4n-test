@@ -178,6 +178,21 @@ SHA512: 44139c00863dbda15da52f7a92d30216be0d1156d89cb386e8c604910e66108296491291
 Description: Ban test gia lap Java phoneME cho iOS 6 (chay game .jar nhap ngoai; 1.2.1 (h2): sua ket load map — nested-budget thanh deopt khoi phuc duoc + buffered socket 8 KiB + counter H2 (sock/anh/ve/GC) + cong tac JIT trong Cai dat; giu do pha evt/vm/copy/hien + loi decoded=1 + breakdown RAM).
 Name: Turbo J2ME
 
+Package: com.bun.phonemetest
+Architecture: iphoneos-arm
+Version: 1.2.2
+Section: Test
+Maintainer: Bun
+Depends: firmware (>= 6.0)
+Filename: debs/com.bun.phonemetest_1.2.2_iphoneos-arm.deb
+Size: 7372506
+MD5sum: 7ff9f5f8b4497f3f388bd127a064fa0f
+SHA1: bf56ecb78d105df89a9d09ffe4f1da0b09e5b008
+SHA256: 8cbb44d27e0f5b381cc7d7ebebea6c94f3c2a14d715cc6f499b7c67c29130bf6
+SHA512: d142b0f141188c067894622d1cc5b78b8f1bd31c12f7c77b13cee15a661e9c1ae0f4984dc15ae531bf6bc86b0995ca75ebfbceae9073f75e708007d236c2a8e1
+Description: Ban test gia lap Java phoneME cho iOS 6 (chay game .jar nhap ngoai; 1.2.2: sua quet .jar iOS 12+ — chu huong dan den nhin thay duoc + hien trang thai tung thu muc da quet + sua race auto-run 1 game + nut Nhap .jar bang UIDocumentPicker (iOS 8+); giu sua ket load map + buffered socket 8 KiB + counter H2 + cong tac JIT cua 1.2.1 + do pha evt/vm/copy/hien + loi decoded=1 + breakdown RAM).
+Name: Turbo J2ME
+
 Package: com.bun.tubepro
 Architecture: iphoneos-arm
 Version: 1.17.21
