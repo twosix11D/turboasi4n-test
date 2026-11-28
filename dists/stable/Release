@@ -6,20 +6,20 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: TurboTV Cydia repository
-Date: Sat, 28 Nov 2026 10:48:45 UTC
+Date: Sat, 28 Nov 2026 12:46:40 UTC
 
 MD5Sum:
- 87f20be729e0c811e8e21177dafcbff2 8656 main/binary-iphoneos-arm/Packages
- 8fcd16dba648227fcf099051e0c6655e 3369 main/binary-iphoneos-arm/Packages.gz
- c236e3f2064f68fd33a685936b06b7f8 3423 main/binary-iphoneos-arm/Packages.bz2
- f8fba582d775f8f64106e6f2503e11c4 3220 main/binary-iphoneos-arm/Packages.xz
+ 5ba5d5703b1354675e02dcf0f986827e 9473 main/binary-iphoneos-arm/Packages
+ 8a718555a14a400852ed6b05a95efa34 3659 main/binary-iphoneos-arm/Packages.gz
+ ebb798b05cdc7e0141c645f7e55c9aa7 3680 main/binary-iphoneos-arm/Packages.bz2
+ 17b4db594846e8e35da84ddae29585f4 3484 main/binary-iphoneos-arm/Packages.xz
 SHA1:
- 5ea52321b13c0158c6bc3f1aae18172060df6c90 8656 main/binary-iphoneos-arm/Packages
- 4b627bb73a4c9bd1509e0256ff1cbefe8f3cb984 3369 main/binary-iphoneos-arm/Packages.gz
- e0b8a4799a0c8c4ecb3e5d36ae9c6bd0fb96ea0c 3423 main/binary-iphoneos-arm/Packages.bz2
- 2d222085f7b375fba03f295a1f95fa46a77510fd 3220 main/binary-iphoneos-arm/Packages.xz
+ b65befaa3cc426b53ef9609ac7c0628f4dd28f3f 9473 main/binary-iphoneos-arm/Packages
+ 16633c6a368318fac3f7c23053b41c583959daf8 3659 main/binary-iphoneos-arm/Packages.gz
+ a0998ef3507be5df67a3542cc0fd4b1c35bed276 3680 main/binary-iphoneos-arm/Packages.bz2
+ 7e41ca29bddd3232f70036140a79ad62a73d4144 3484 main/binary-iphoneos-arm/Packages.xz
 SHA256:
- 1feebe9dd37343001a42e28b56ee4233d7e53df3a312b88bbd8ca72733bb034c 8656 main/binary-iphoneos-arm/Packages
- 3aead6c40d19678912390b081b77213b701fcd853dd761fbb3bc3b8e2b0db536 3369 main/binary-iphoneos-arm/Packages.gz
- 124d5b4774b79e53302e9dae0273d659fef648ce3c5607323f30f4e906147c87 3423 main/binary-iphoneos-arm/Packages.bz2
- 313a395e34e2cd57fd1cf70cbb1090f2b0b02c8b35faa42ab2edd956abaf270c 3220 main/binary-iphoneos-arm/Packages.xz
+ d80801da2440058311ebedac831698da3731f388a8720f2999f0da5021d690a0 9473 main/binary-iphoneos-arm/Packages
+ 634ae00139157acfaa71355d121324503ac4df638153ac479eafdc74b0a89ea5 3659 main/binary-iphoneos-arm/Packages.gz
+ d93d57dd9a16a9252ce92bea9a8f328e65de32a21fd40a93142ab0a7cad8a8c6 3680 main/binary-iphoneos-arm/Packages.bz2
+ fb11fcbc457449897ef0564a2515f8a04ce37ea1330c96d3be84e6a429a3874d 3484 main/binary-iphoneos-arm/Packages.xz
