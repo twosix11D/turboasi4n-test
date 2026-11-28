@@ -193,6 +193,21 @@ SHA512: d142b0f141188c067894622d1cc5b78b8f1bd31c12f7c77b13cee15a661e9c1ae0f4984d
 Description: Ban test gia lap Java phoneME cho iOS 6 (chay game .jar nhap ngoai; 1.2.2: sua quet .jar iOS 12+ — chu huong dan den nhin thay duoc + hien trang thai tung thu muc da quet + sua race auto-run 1 game + nut Nhap .jar bang UIDocumentPicker (iOS 8+); giu sua ket load map + buffered socket 8 KiB + counter H2 + cong tac JIT cua 1.2.1 + do pha evt/vm/copy/hien + loi decoded=1 + breakdown RAM).
 Name: Turbo J2ME
 
+Package: com.bun.phonemetest
+Architecture: iphoneos-arm
+Version: 1.2.3
+Section: Test
+Maintainer: Bun
+Depends: firmware (>= 6.0)
+Filename: debs/com.bun.phonemetest_1.2.3_iphoneos-arm.deb
+Size: 7380340
+MD5sum: e7b33dec1786b08f80bb625b4865eead
+SHA1: 1dd3c9a0ed9b2cf7b9ad2d20c4a570d5ff1bb359
+SHA256: d412d4832353113e94c89ea8984821e216a078fa401f21acd249fcdc0d809856
+SHA512: becc1efe4bb2d617632428c5d4625da289a02cd3e26190b92cf4edcd07c9b42be9fe07515a2a0b9678dfd9fd65f7ab5eac514a7a8759fc68ae16c006dd217919
+Description: Ban test gia lap Java phoneME cho iOS 6 (chay game .jar nhap ngoai; 1.2.3: chi them chan doan — counter cho= (cho tang Java cua thread game) + log caller notifyDestroyed/System.exit + tach sock theo thread (sock= thread game, sockN= thread khac); giu sua quet .jar iOS 12+ cua 1.2.2 + sua ket load map + buffered socket 8 KiB + counter H2 + cong tac JIT cua 1.2.1 + do pha evt/vm/copy/hien + loi decoded=1 + breakdown RAM).
+Name: Turbo J2ME
+
 Package: com.bun.tubepro
 Architecture: iphoneos-arm
 Version: 1.17.21
