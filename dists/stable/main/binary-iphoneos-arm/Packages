@@ -163,6 +163,21 @@ SHA512: 774d5c690be3316972d0b2de4fd9858ab84a99e50bd17aece2ef675ccc9d9d3d8ca32f32
 Description: Ban test gia lap Java phoneME cho iOS 6 (chay game .jar nhap ngoai; 1.2.0: JIT ARMv7 checkpoint (g) BAT de test tren may that + giu do pha evt/vm/copy/hien + loi decoded=1 + breakdown RAM).
 Name: Turbo J2ME
 
+Package: com.bun.phonemetest
+Architecture: iphoneos-arm
+Version: 1.2.1
+Section: Test
+Maintainer: Bun
+Depends: firmware (>= 6.0)
+Filename: debs/com.bun.phonemetest_1.2.1_iphoneos-arm.deb
+Size: 7369364
+MD5sum: 9d92ad58d62899fcc015399d31f88ce0
+SHA1: 0d959de63eadc46a0a68f62ae7ba52d8375e6bf7
+SHA256: 6a34080f4d75885612de6339eac1d5edf44db9867466c6a60f1222295f16b29e
+SHA512: 44139c00863dbda15da52f7a92d30216be0d1156d89cb386e8c604910e661082964912914d92ff60067bea13da05cc8d5bd6473b698ce5cfb4118faca1b9beb4
+Description: Ban test gia lap Java phoneME cho iOS 6 (chay game .jar nhap ngoai; 1.2.1 (h2): sua ket load map — nested-budget thanh deopt khoi phuc duoc + buffered socket 8 KiB + counter H2 (sock/anh/ve/GC) + cong tac JIT trong Cai dat; giu do pha evt/vm/copy/hien + loi decoded=1 + breakdown RAM).
+Name: Turbo J2ME
+
 Package: com.bun.tubepro
 Architecture: iphoneos-arm
 Version: 1.17.21
